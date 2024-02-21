@@ -1,0 +1,10 @@
+{
+  "name": "ethereum-wallet-generator",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethers": "5.7"
+  }
+}
